@@ -10,9 +10,9 @@ Por lo tanto, de ahi surgio mi investigacion, por una cuestion de aprendizaje y 
 
 
 Temas 
-  - [Por que Raspberry Pi Pico?]()
-  - [Tipos de Switches]()
-  - [Potenciometros VS Encoders]() 
+  - [Por que Raspberry Pi Pico?](#por-que-raspberry-pi-pico)
+  - [Tipos de Switches](#tipos-de-switches)
+  - [Potenciometros VS Encoders](#potenciometros-vs-encoders) 
 
 
 
@@ -23,6 +23,13 @@ Temas
 ---
 
 ## Tipos de Switches
+En un microcontrolador como la Raspberry Pi Pico se pueden usar una gran cantidad de tipos de botones.
+Hay momentaneos, fijos(al soltarlos quedan activos), switches de llave, y muchos mas.
+
+En este proyecto lo ideal es switches momentaneos, ya que al "pisarlo", se lee la señal y no es necesario que quede fijo ya que eso lo interpreta el plugin mismo.
+
+
+<img width="388" height="392" alt="Image" src="https://github.com/user-attachments/assets/17e246d7-9da3-4dea-b4a8-b0e387b4df0a" />
 
 
 ---
