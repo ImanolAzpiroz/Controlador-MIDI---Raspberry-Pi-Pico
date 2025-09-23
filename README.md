@@ -6,3 +6,25 @@ Este proyecto surgio como respuesta a un problema que tenia. Soy guitarrista de 
 Entonces, todo esto seria posible con un controlador MIDI que envie "señales" y la PC, a travez de un Script, las interprete, traduzca a mensajes MIDI y los envie al DAW (en mi caso Reaper, pero deberia funcionar con cualquier otro).
 
 Por lo tanto, de ahi surgio mi investigacion, por una cuestion de aprendizaje y de entretenimiento, opté por crear un controlador propio, totalmente customizable, a conseguir uno standard del mercado.
+
+
+
+Temas 
+  - [Por que Raspberry Pi Pico?]()
+  - [Tipos de Switches]()
+  - [Potenciometros VS Encoders]() 
+
+
+
+---
+
+## Por que Raspberry Pi Pico?
+
+---
+
+## Tipos de Switches
+
+
+---
+
+## Potenciometros VS Encoders
