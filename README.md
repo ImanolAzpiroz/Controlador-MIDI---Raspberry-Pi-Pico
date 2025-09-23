@@ -28,10 +28,13 @@ Hay momentaneos, fijos(al soltarlos quedan activos), switches de llave, y muchos
 
 En este proyecto lo ideal es switches momentaneos, ya que al "pisarlo", se lee la señal y no es necesario que quede fijo ya que eso lo interpreta el plugin mismo.
 
-
+Switch SPST momentaneo de 2 pines. (El que vamos a usar)
 <img width="388" height="392" alt="Image" src="https://github.com/user-attachments/assets/17e246d7-9da3-4dea-b4a8-b0e387b4df0a" />
 
+Otros Switches:
 
+Switch 3PDT, fijo, usado generalmente en pedales "reales".
+<img width="382" height="393" alt="Image" src="https://github.com/user-attachments/assets/4f1f8a2b-f182-4a67-8a08-1b82e0777838" />
 ---
 
 ## Potenciometros VS Encoders
