@@ -11,6 +11,7 @@ Por lo tanto, de ahi surgio mi investigacion, por una cuestion de aprendizaje y 
 
 Temas 
   - [Por que Raspberry Pi Pico?](#por-que-raspberry-pi-pico)
+  - [Python VS MicroPython](#python-vs-micropython)
   - [Tipos de Switches](#tipos-de-switches)
   - [Potenciometros VS Encoders](#potenciometros-vs-encoders) 
 
@@ -19,6 +20,10 @@ Temas
 ---
 
 ## Por que Raspberry Pi Pico?
+
+---
+
+## Python VS MicroPython
 
 ---
 
